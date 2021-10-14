@@ -1,0 +1,49 @@
+[11-Oct-2021 15:31:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php on line 2
+[11-Oct-2021 15:35:11 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php on line 2
+[11-Oct-2021 15:35:11 UTC] PHP Stack trace:
+[11-Oct-2021 15:35:11 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php:0
+[11-Oct-2021 15:35:11 UTC] PHP Notice:  A non well formed numeric value encountered in C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php on line 2
+[11-Oct-2021 15:35:11 UTC] PHP Stack trace:
+[11-Oct-2021 15:35:11 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php:0
+[11-Oct-2021 15:35:28 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php on line 2
+[11-Oct-2021 15:35:29 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php on line 2
+[11-Oct-2021 15:35:47 UTC] PHP Parse error:  syntax error, unexpected ''+'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php on line 2
+[11-Oct-2021 15:36:05 UTC] PHP Parse error:  syntax error, unexpected ''+'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php on line 2
+[11-Oct-2021 15:36:22 UTC] PHP Parse error:  syntax error, unexpected '2' (T_LNUMBER), expecting ',' or ';' in C:\Users\ramra\Local Sites\figforce-university\app\public\exprement.php on line 2
+[14-Oct-2021 02:47:14 UTC] PHP Parse error:  syntax error, unexpected 'EOL' (T_STRING) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 6
+[14-Oct-2021 02:47:56 UTC] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 6
+[14-Oct-2021 02:47:57 UTC] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 6
+[14-Oct-2021 02:49:08 UTC] PHP Parse error:  syntax error, unexpected ';' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 6
+[14-Oct-2021 03:03:58 UTC] PHP Parse error:  syntax error, unexpected '.' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
+[14-Oct-2021 03:04:33 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ';' or ',' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
+[14-Oct-2021 03:04:52 UTC] PHP Parse error:  syntax error, unexpected 'myfunction' (T_STRING) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 7
+[14-Oct-2021 03:05:29 UTC] PHP Parse error:  syntax error, unexpected 'PHP' (T_STRING), expecting ';' or ',' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
+[14-Oct-2021 03:05:33 UTC] PHP Warning:  Use of undefined constant PHP - assumed 'PHP' (this will throw an Error in a future version of PHP) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
+[14-Oct-2021 03:05:33 UTC] PHP Stack trace:
+[14-Oct-2021 03:05:33 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[14-Oct-2021 03:05:33 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[14-Oct-2021 03:05:33 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[14-Oct-2021 03:05:33 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[14-Oct-2021 03:05:33 UTC] PHP   5. myfunction() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php:6
+[14-Oct-2021 03:05:33 UTC] PHP Warning:  Use of undefined constant EOL - assumed 'EOL' (this will throw an Error in a future version of PHP) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
+[14-Oct-2021 03:05:33 UTC] PHP Stack trace:
+[14-Oct-2021 03:05:33 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[14-Oct-2021 03:05:33 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[14-Oct-2021 03:05:33 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[14-Oct-2021 03:05:34 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[14-Oct-2021 03:05:34 UTC] PHP   5. myfunction() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php:6
+[14-Oct-2021 03:05:34 UTC] PHP Warning:  Use of undefined constant PHP - assumed 'PHP' (this will throw an Error in a future version of PHP) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
+[14-Oct-2021 03:05:34 UTC] PHP Stack trace:
+[14-Oct-2021 03:05:34 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[14-Oct-2021 03:05:34 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[14-Oct-2021 03:05:34 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[14-Oct-2021 03:05:34 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[14-Oct-2021 03:05:34 UTC] PHP   5. myfunction() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php:7
+[14-Oct-2021 03:05:34 UTC] PHP Warning:  Use of undefined constant EOL - assumed 'EOL' (this will throw an Error in a future version of PHP) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
+[14-Oct-2021 03:05:34 UTC] PHP Stack trace:
+[14-Oct-2021 03:05:34 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[14-Oct-2021 03:05:34 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[14-Oct-2021 03:05:34 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[14-Oct-2021 03:05:34 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[14-Oct-2021 03:05:34 UTC] PHP   5. myfunction() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php:7
+[14-Oct-2021 03:06:04 UTC] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING), expecting ';' or ',' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
