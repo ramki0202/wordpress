@@ -47,3 +47,104 @@
 [14-Oct-2021 03:05:34 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
 [14-Oct-2021 03:05:34 UTC] PHP   5. myfunction() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php:7
 [14-Oct-2021 03:06:04 UTC] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING), expecting ';' or ',' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
+[19-Oct-2021 03:24:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 23
+[19-Oct-2021 03:24:22 UTC] PHP Parse error:  syntax error, unexpected 'bloginfo' (T_STRING) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 24
+[19-Oct-2021 03:24:23 UTC] PHP Parse error:  syntax error, unexpected 'bloginfo' (T_STRING) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 24
+[19-Oct-2021 03:24:34 UTC] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 23
+[19-Oct-2021 03:24:35 UTC] PHP Parse error:  syntax error, unexpected 'PHP_EOL' (T_STRING) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 23
+[19-Oct-2021 03:25:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 23
+[20-Oct-2021 03:14:43 UTC] PHP Parse error:  syntax error, unexpected 'i' (T_STRING), expecting ';' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 33
+[20-Oct-2021 03:17:25 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 33
+[20-Oct-2021 03:17:43 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:18:30 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:18:31 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:18:40 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:18:41 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:18:41 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:18:41 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:18:42 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:18:42 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:19:22 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:21:14 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:21:15 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:23:26 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 35
+[20-Oct-2021 03:23:35 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 35
+[20-Oct-2021 03:24:01 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 36
+[20-Oct-2021 03:24:17 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 37
+[20-Oct-2021 03:24:18 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 37
+[20-Oct-2021 03:24:19 UTC] PHP Parse error:  syntax error, unexpected '<' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 37
+[20-Oct-2021 03:24:49 UTC] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[20-Oct-2021 03:24:49 UTC] PHP Stack trace:
+[20-Oct-2021 03:24:49 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[20-Oct-2021 03:24:49 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[20-Oct-2021 03:24:49 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[20-Oct-2021 03:24:49 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[20-Oct-2021 03:28:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 36
+[20-Oct-2021 03:30:53 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 37
+[20-Oct-2021 03:30:59 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 37
+[20-Oct-2021 04:32:44 UTC] PHP Parse error:  syntax error, unexpected ''<br>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 39
+[20-Oct-2021 04:32:53 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 40
+[20-Oct-2021 04:33:00 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ';' or ',' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 39
+[20-Oct-2021 04:33:43 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ';' or ',' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 39
+[20-Oct-2021 04:34:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 41
+[20-Oct-2021 04:34:10 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 60
+[20-Oct-2021 04:36:45 UTC] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE), expecting ';' or ',' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 40
+[26-Oct-2021 02:14:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[26-Oct-2021 02:14:48 UTC] PHP Stack trace:
+[26-Oct-2021 02:14:48 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[26-Oct-2021 02:14:48 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[26-Oct-2021 02:14:48 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[26-Oct-2021 02:14:48 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[26-Oct-2021 02:15:29 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[26-Oct-2021 02:15:29 UTC] PHP Stack trace:
+[26-Oct-2021 02:15:29 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[26-Oct-2021 02:15:29 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[26-Oct-2021 02:15:29 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[26-Oct-2021 02:15:29 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[26-Oct-2021 02:15:31 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[26-Oct-2021 02:15:31 UTC] PHP Stack trace:
+[26-Oct-2021 02:15:31 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[26-Oct-2021 02:15:31 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[26-Oct-2021 02:15:31 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[26-Oct-2021 02:15:31 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[26-Oct-2021 02:15:59 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[26-Oct-2021 02:15:59 UTC] PHP Stack trace:
+[26-Oct-2021 02:15:59 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[26-Oct-2021 02:15:59 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[26-Oct-2021 02:15:59 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[26-Oct-2021 02:15:59 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[26-Oct-2021 02:16:37 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[26-Oct-2021 02:16:37 UTC] PHP Stack trace:
+[26-Oct-2021 02:16:37 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[26-Oct-2021 02:16:37 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[26-Oct-2021 02:16:37 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[26-Oct-2021 02:16:37 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[26-Oct-2021 02:16:38 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[26-Oct-2021 02:16:38 UTC] PHP Stack trace:
+[26-Oct-2021 02:16:38 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[26-Oct-2021 02:16:38 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[26-Oct-2021 02:16:38 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[26-Oct-2021 02:16:38 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[26-Oct-2021 02:17:27 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[26-Oct-2021 02:17:27 UTC] PHP Stack trace:
+[26-Oct-2021 02:17:27 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[26-Oct-2021 02:17:27 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[26-Oct-2021 02:17:27 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[26-Oct-2021 02:17:27 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[26-Oct-2021 02:17:42 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 34
+[26-Oct-2021 02:20:32 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 33
+[26-Oct-2021 02:43:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_title() in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php:3
+Stack trace:
+#0 C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\ramra\\...')
+#2 C:\Users\ramra\Local Sites\figforce-university\app\public\index.php(17): require('C:\\Users\\ramra\\...')
+#3 {main}
+  thrown in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 3
+[26-Oct-2021 02:44:07 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php on line 5
+[26-Oct-2021 03:02:36 UTC] PHP Fatal error:  Maximum execution time of 1200 seconds exceeded in C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\query.php on line 937
+[26-Oct-2021 03:02:36 UTC] PHP Stack trace:
+[26-Oct-2021 03:02:36 UTC] PHP   1. {main}() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:0
+[26-Oct-2021 03:02:36 UTC] PHP   2. require() C:\Users\ramra\Local Sites\figforce-university\app\public\index.php:17
+[26-Oct-2021 03:02:36 UTC] PHP   3. require_once() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-blog-header.php:19
+[26-Oct-2021 03:02:36 UTC] PHP   4. include() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-includes\template-loader.php:106
+[26-Oct-2021 03:02:36 UTC] PHP   5. have_posts() C:\Users\ramra\Local Sites\figforce-university\app\public\wp-content\themes\figforce\index.php:2
