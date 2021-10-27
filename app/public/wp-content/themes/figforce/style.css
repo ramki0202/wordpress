@@ -2,3 +2,80 @@
     Author: Ramki
     Version: 1.0
 */
+
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,300;1,600&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+/* navigation styles start here */
+/* .navbar {
+  background-color: #fff;
+}
+.navbar-light {
+  color: #000000;
+}
+.navbar-nav {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.navbar .nav-item {
+  padding: 10px 20px;
+}
+.navbar .nav-link {
+  font-size: 18px;
+  margin-left: 10px;
+  color: #333333 !important;
+}
+.navbar .nav-link:hover {
+  font-size: 18px;
+  margin-left: 10px;
+  color: #067eed !important;
+}
+
+.login {
+  width: 120px;
+  border-radius: 25px;
+/* } 
+navigation styles end here
+
+/* 3rd party packages */
+@import "normalize.css";
+@import "../node_modules/@glidejs/glide/dist/css/glide.core.min.css";
+
+/* SASS and Global'ish Stuff */
+@import "base/variables";
+@import "base/baseline";
+@import "base/utility-classes";
+
+/* BEM Blocks */
+@import "modules/shame";
+@import "modules/login";
+@import "modules/btn";
+@import "modules/my-notes";
+@import "modules/site-header";
+@import "modules/site-footer";
+@import "modules/main-navigation";
+@import "modules/page-banner";
+@import "modules/hero-slider";
+@import "modules/search-overlay";
+@import "modules/professor-card";
+@import "modules/headline";
+@import "modules/generic-content";
+@import "modules/full-width-split";
+@import "modules/event-summary";
+@import "modules/page-links";
+@import "modules/acf-map";
+@import "modules/link-list";
+@import "modules/metabox";
+@import "modules/post-item";
