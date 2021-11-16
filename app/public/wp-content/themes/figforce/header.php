@@ -1,39 +1,39 @@
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
+<!-- 
+  <title>this is test</title> -->
+  <?php wp_head();?>
+  
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <?php wp_head();?>
+    
     
   </head>
   <body>
-
-<!-- navigation bar start here -->
-
-
-<nav class="navbar navbar-expand-lg navbar-light sticky-top">
+  <header class="site-header">
       <div class="container">
-        <a class="navbar-brand" href="/"><p>LOGO</p><img src="images/logo.png" width="80%" alt=""></a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link " aria-current="page" href="#">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">HealthPassport</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Packages</a>
-            </li>
-            <li class="nav-item">
-              <button type="button" class="login btn btn-primary">Login</button> 
-            </li>
-          </ul>
+        <h1 class="school-logo-text float-left">
+          <a href="<?php echo site_url()?>"><strong>Fictional</strong> University</a>
+        </h1>
+        <span class="js-search-trigger site-header__search-trigger"><i class="fa fa-search" aria-hidden="true"></i></span>
+        <i class="site-header__menu-trigger fa fa-bars" aria-hidden="true"></i>
+        <div class="site-header__menu group">
+          <nav class="main-navigation">
+            <ul>
+              <li><a href="<?php echo site_url('/about-us')?>">About Us</a></li>
+              <li><a href="<?php site_url('/')?>">Programs</a></li>
+              <li><a href="<?php site_url('/')?>">Events</a></li>
+              <li><a href="<?php site_url('/')?>">Campuses</a></li>
+              <li><a href="<?php site_url('/')?>">Blog</a></li>
+            </ul>
+          </nav>
+          <div class="site-header__util">
+            <a href="#" class="btn btn--small btn--orange float-left push-right">Login</a>
+            <a href="#" class="btn btn--small btn--dark-orange float-left">Sign Up</a>
+            <span class="search-trigger js-search-trigger"><i class="fa fa-search" aria-hidden="true"></i></span>
+          </div>
         </div>
       </div>
-    </nav>
-<!-- navigation bar end here -->
+    </header> 
 </body>
 </html>
